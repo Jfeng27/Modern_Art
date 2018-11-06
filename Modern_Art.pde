@@ -1,1 +1,24 @@
-//add modern art code here
+size(500,500);
+background(255,255,255);
+//line
+strokeWeight(5);
+fill(#E7FC00);
+rect(250,0,250,250);
+fill(0,0,255);
+line(0,150,350,150);
+rect(0,250,250,250);
+rect(350,150,200,200);
+fill(#FF00F3);
+rect(150,150,200,200);
+fill(255,255,255);
+rect(350,350,200,200);
+fill(#E1FF05);
+rect(150,350,200,200);
+fill(0,0,0);
+ellipse(250,250,100,100);
+//square
+fill(#FC0000);
+
+ellipse(150,150,200,200);
+//line2
+noFill();
